@@ -1,3 +1,6 @@
+🔗 Live Demo: [https://makelifeeasyforstreetvendors.netlify.app/)]
+
+
 # WebApp for Street Vendors 🍜
 
 A smart, mobile-first web application designed to empower **street food vendors** and connect them directly with customers in real time. Built as part of **Tutedude’s Web Development Hackathon 1.0**, this project aims to digitally transform India’s vibrant street food ecosystem.
